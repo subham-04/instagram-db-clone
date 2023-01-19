@@ -1,1 +1,1 @@
-# instagram-db-clonr
+# instagram-db-clone
